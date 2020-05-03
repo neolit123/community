@@ -1040,9 +1040,6 @@ sigs:
       slack: kube-deploy
     owners:
     - https://raw.githubusercontent.com/kubernetes/kube-deploy/master/OWNERS
-  - name: kube-up
-    owners:
-    - https://raw.githubusercontent.com/kubernetes/kubernetes/master/cluster/OWNERS
   - name: kubeadm
     contact:
       slack: kubeadm
